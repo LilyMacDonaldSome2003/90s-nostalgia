@@ -10,3 +10,26 @@ body {
 body {
     margin: 0%;
 }
+
+html {
+    box-sizing: border-box;
+}
+
+img.logo {
+    width: 160px:
+  
+}
+
+nav {
+
+}
+
+section.hero, h1 {
+    width: 100%;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-image: url("../images/greatest-90s-fashion-trends.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
