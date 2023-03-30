@@ -15,7 +15,7 @@ html {
     box-sizing: border-box;
 }
 
-img.logo {
+.logo {
     width: 160px:
   
 }
@@ -23,6 +23,12 @@ img.logo {
 nav {
 
 }
+
+header {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
 
 section.hero, h1 {
     width: 100%;
@@ -32,4 +38,13 @@ section.hero, h1 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
+}
+
+
+
+
+.icon {
+    width: 260px;
+    float: left;
+    margin: 2em;
 }
