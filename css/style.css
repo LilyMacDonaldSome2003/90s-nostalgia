@@ -40,6 +40,11 @@ section.hero, h1 {
     background-position: top center;
 }
 
+section.trends {
+    background-color: purple;
+}
+
+
 .trends, figure {
     width: 22%;
 
