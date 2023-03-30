@@ -30,6 +30,13 @@ header {
 }
 
 a:link {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: 75em;
+    padding-right: 75em;
+}
+
+a:link {
     background-color: purple;
     color: white;
     border: 2px solid white;
